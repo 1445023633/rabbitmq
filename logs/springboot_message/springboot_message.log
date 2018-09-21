@@ -1,0 +1,11 @@
+2018-04-12 16:40:52.317 INFO [main]cn.felord.message.SpringbootMessageApplication.logStarting:48 -Starting SpringbootMessageApplication on SC-201802231504 with PID 10680 (D:\linux\virturebox\springboot-message\target\classes started by Administrator in D:\linux\virturebox\springboot-message)
+2018-04-12 16:40:52.319 DEBUG[main]cn.felord.message.SpringbootMessageApplication.logStarting:51 -Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-04-12 16:40:52.320 INFO [main]cn.felord.message.SpringbootMessageApplication.logStartupProfileInfo:593 -No active profile set, falling back to default profiles: default
+2018-04-12 16:44:06.322 INFO [main]cn.felord.message.SpringbootMessageApplication.logStarting:48 -Starting SpringbootMessageApplication on SC-201802231504 with PID 22164 (D:\linux\virturebox\springboot-message\target\classes started by Administrator in D:\linux\virturebox\springboot-message)
+2018-04-12 16:44:06.325 DEBUG[main]cn.felord.message.SpringbootMessageApplication.logStarting:51 -Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-04-12 16:44:06.325 INFO [main]cn.felord.message.SpringbootMessageApplication.logStartupProfileInfo:593 -No active profile set, falling back to default profiles: default
+2018-04-12 16:44:09.983 INFO [main]cn.felord.message.SpringbootMessageApplication.logStarted:57 -Started SpringbootMessageApplication in 3.978 seconds (JVM running for 4.45)
+2018-04-12 16:44:45.282 INFO [main]cn.felord.message.SpringbootMessageApplication.logStarting:48 -Starting SpringbootMessageApplication on SC-201802231504 with PID 3528 (D:\linux\virturebox\springboot-message\target\classes started by Administrator in D:\linux\virturebox\springboot-message)
+2018-04-12 16:44:45.284 DEBUG[main]cn.felord.message.SpringbootMessageApplication.logStarting:51 -Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-04-12 16:44:45.285 INFO [main]cn.felord.message.SpringbootMessageApplication.logStartupProfileInfo:593 -No active profile set, falling back to default profiles: default
+2018-04-12 16:44:49.164 INFO [main]cn.felord.message.SpringbootMessageApplication.logStarted:57 -Started SpringbootMessageApplication in 4.178 seconds (JVM running for 4.671)
